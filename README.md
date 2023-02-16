@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Маленький сайт обо мне
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Написан на React
 
 ## Available Scripts
 
